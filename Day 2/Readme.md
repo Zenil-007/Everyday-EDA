@@ -102,8 +102,7 @@ Try polynomial regression
 This project is for learning purposes and may not reflect real-world pricing accuracy.
 
 🔗 Connect With Me
-💼 LinkedIn: (Add your link)
-💻 GitHub: (Add your link)
+💼 LinkedIn: https://www.linkedin.com/in/zenil-roy-2b8a041a2/
 ⭐ Support
 
 If you found this project helpful:
