@@ -63,8 +63,9 @@ Each dataset analysis includes:
 | Day   | Dataset       | Status |
 | ----- | ------------- | ------ |
 | Day 1 | Suv Cars | Done     |
-| Day 2 | House Prices Messy Dataset | Done     |
-| ...   | ...           | ...    |
+| Day 2 | House Prices Messy Dataset | Done |
+| Day 3 | Global Poverty Index Messy Dataset | Done |
+| Day 4  | .......  | ... |
 
 > 🔥 This table will grow daily — just like my skills.
 
