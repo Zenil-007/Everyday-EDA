@@ -1,4 +1,7 @@
 About Dataset
+https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv/data
+
+
 Lending Club
 Lending Club is a peer-to-peer Lending company based in the US. They match people looking to invest money with people looking to borrow money. When investors invest their money through Lending Club, this money is passed onto borrowers, and when borrowers pay their loans back, the capital plus the interest passes on back to the investors. It is a win for everybody as they can get typically lower loan rates and higher investor returns.
 
