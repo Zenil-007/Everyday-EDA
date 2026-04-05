@@ -67,6 +67,7 @@ Each dataset analysis includes:
 | Day 3 | Global Poverty Index Messy Dataset | Done |
 | Day 4  | Indian Road Accidents Clean Dataset  | Done |
 | Day 5  | End To End ML Project Loan Prediction Lending dataset more than 50 Lakh records | Done |
+| Day 6  | Breast Cancer Classification ML Project | Done |
 
 > 🔥 This table will grow daily — just like my skills.
 
