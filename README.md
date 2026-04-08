@@ -68,6 +68,7 @@ Each dataset analysis includes:
 | Day 4  | Indian Road Accidents Clean Dataset  | Done |
 | Day 5  | End To End ML Project Loan Prediction Lending dataset more than 50 Lakh records | Done |
 | Day 6  | Breast Cancer Classification ML Project | Done |
+| Day 7  | Geopolitical Analysis of Iran War      | Pending |
 
 > 🔥 This table will grow daily — just like my skills.
 
