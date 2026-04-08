@@ -1,0 +1,69 @@
+date,event_name,event_type,region,iran_involved,price_shock_pct,shock_direction,duration_days,severity,strait_of_hormuz_risk,sanctions_related,military_action
+1990-08-02,Iraq invades Kuwait,military,Middle East,0,28.0,up,90,extreme,0,0,1
+1991-01-17,Gulf War begins (Operation Desert Storm),military,Middle East,0,-15.0,down,30,high,0,0,1
+1991-02-28,Gulf War ceasefire,diplomatic,Middle East,0,-12.0,down,14,high,0,0,0
+1998-12-16,Operation Desert Fox (Iraq bombing),military,Middle East,0,8.0,up,7,medium,0,0,1
+2001-09-11,9/11 attacks,terror,Global,0,12.0,up,30,extreme,0,0,0
+2002-10-16,US Congress authorizes Iraq war,political,Middle East,0,10.0,up,60,high,0,0,0
+2003-03-20,US invasion of Iraq begins,military,Middle East,0,18.0,up,45,extreme,0,0,1
+2003-05-01,Bush declares end of major combat,political,Global,0,-14.0,down,21,high,0,0,0
+2005-06-24,Ahmadinejad elected Iran president,political,Middle East,1,5.0,up,14,medium,0,0,0
+2006-01-10,Iran resumes uranium enrichment,sanctions,Middle East,1,7.0,up,30,high,0,1,0
+2006-07-12,Israel-Lebanon war begins,military,Middle East,0,6.0,up,14,medium,0,0,1
+2007-10-25,US imposes new Iran sanctions,sanctions,Middle East,1,4.0,up,10,medium,0,1,0
+2008-07-11,Brent hits $147 (record high),market,Global,0,0.0,neutral,1,extreme,0,0,0
+2008-09-15,Lehman Brothers collapse,economic,Global,0,-35.0,down,90,extreme,0,0,0
+2009-06-12,Iran election protests (Green Movement),political,Middle East,1,3.0,up,20,low,0,0,0
+2010-06-09,UN Security Council adopts Resolution 1929,sanctions,Global,0,4.0,up,14,medium,0,1,0
+2011-01-25,Arab Spring begins (Egypt),political,Global,0,8.0,up,30,high,0,0,0
+2011-02-17,Libya civil war begins,military,Middle East,0,15.0,up,60,high,0,0,1
+2011-10-20,"Gaddafi killed, Libya war ends",political,Middle East,0,-8.0,down,21,medium,0,0,0
+2012-01-23,EU oil embargo on Iran,sanctions,Middle East,1,5.0,up,30,high,0,1,0
+2012-07-01,EU Iran oil embargo takes effect,sanctions,Middle East,1,3.0,up,14,medium,0,1,0
+2013-09-09,US-Russia Syria deal (chemical weapons),diplomatic,Middle East,0,-5.0,down,14,medium,0,0,0
+2014-06-29,ISIS declares caliphate,terror,Global,0,8.0,up,30,high,0,0,0
+2014-11-27,OPEC refuses to cut production,market,Global,0,-10.0,down,60,high,0,0,0
+2015-07-14,Iran nuclear deal (JCPOA) signed,diplomatic,Middle East,1,-8.0,down,30,high,0,0,0
+2015-12-04,OPEC maintains output (price war),market,Global,0,-12.0,down,45,high,0,0,0
+2016-01-16,Iran sanctions lifted (JCPOA),sanctions,Middle East,1,-5.0,down,30,high,0,1,0
+2016-04-17,Doha OPEC meeting fails,market,Global,0,-7.0,down,21,medium,0,0,0
+2016-09-28,OPEC agrees to first cut since 2008,market,Global,0,8.0,up,21,high,0,0,0
+2017-01-20,Trump inauguration,political,Global,0,3.0,up,14,medium,0,0,0
+2017-06-05,Qatar blockade begins,political,Middle East,0,4.0,up,21,medium,0,0,0
+2018-05-08,Trump withdraws from JCPOA,sanctions,Global,1,5.0,up,30,high,0,1,0
+2018-11-05,US Iran sanctions reimposed,sanctions,Middle East,1,-3.0,down,14,medium,0,1,0
+2019-05-02,US ends Iran sanction waivers,sanctions,Middle East,1,3.0,up,14,medium,0,1,0
+2019-05-12,Saudi tanker attacks near Fujairah,military,Middle East,0,3.0,up,7,medium,1,0,1
+2019-06-13,Tanker attacks in Gulf of Oman,military,Middle East,0,4.0,up,7,medium,1,0,1
+2019-09-14,Houthi/Iran attack on Abqaiq-Khurais,military,Middle East,1,15.0,up,14,extreme,1,0,1
+2019-09-17,Saudi Arabia restores output,market,Middle East,0,-8.0,down,7,high,0,0,0
+2020-01-03,Qasem Soleimani killed by US drone,military,Global,1,4.0,up,7,high,0,0,1
+2020-01-08,Iran strikes US bases in Iraq,military,Middle East,1,3.0,up,3,medium,0,0,1
+2020-03-08,Saudi Arabia launches oil price war,market,Middle East,0,-25.0,down,45,extreme,0,0,0
+2020-04-12,OPEC+ agrees record 9.7M bpd cut,market,Global,0,12.0,up,30,high,0,0,0
+2020-04-20,WTI goes negative for first time,market,Global,0,-100.0,down,1,extreme,0,0,0
+2021-01-20,"Biden inaugurated, Iran talks resume",diplomatic,Middle East,1,2.0,up,14,low,0,0,0
+2021-02-25,US strikes Iran-backed militia in Syria,military,Middle East,1,2.0,up,5,low,0,0,1
+2021-11-18,Vienna nuclear talks resume,diplomatic,Global,1,-2.0,down,14,low,0,0,0
+2022-02-24,Russia invades Ukraine,military,Global,0,22.0,up,60,extreme,0,0,1
+2022-03-08,US bans Russian oil imports,sanctions,Global,0,8.0,up,14,high,0,1,0
+2022-06-14,Brent hits $123 (post-Ukraine peak),market,Global,0,0.0,neutral,1,extreme,0,0,0
+2022-07-15,Biden visits Saudi Arabia,diplomatic,Middle East,0,-3.0,down,14,medium,0,0,0
+2022-09-30,OPEC+ cuts output by 2M bpd,market,Global,0,7.0,up,21,high,0,0,0
+2022-09-16,Iran protests begin (Mahsa Amini),political,Middle East,1,2.0,up,30,medium,0,0,0
+2023-04-02,OPEC+ surprise cut 1.16M bpd,market,Global,0,8.0,up,14,high,0,0,0
+2023-07-04,Saudi Arabia extends voluntary cut,market,Middle East,0,3.0,up,14,medium,0,0,0
+2023-10-07,Hamas attacks Israel,military,Middle East,0,5.0,up,21,high,0,0,1
+2023-10-17,Gaza hospital explosion,military,Global,0,3.0,up,7,medium,0,0,1
+2023-11-22,Israel-Hamas temporary ceasefire,diplomatic,Middle East,0,-3.0,down,7,medium,0,0,0
+2024-01-11,US/UK strike Houthi targets in Yemen,military,Middle East,0,3.0,up,14,medium,1,0,1
+2024-02-12,Houthis escalate Red Sea attacks,military,Middle East,0,4.0,up,21,medium,1,0,1
+2024-04-01,Israel strikes Iran consulate Damascus,military,Middle East,1,4.0,up,14,high,0,0,1
+2024-04-13,Iran direct missile/drone attack on Israel,military,Middle East,1,3.0,up,7,high,0,0,1
+2024-04-19,Israel retaliates against Iran,military,Middle East,1,2.0,up,7,medium,0,0,1
+2024-06-12,Saudi Arabia renews voluntary cuts,market,Middle East,0,2.0,up,14,medium,0,0,0
+2024-10-01,Iran fires ballistic missiles at Israel,military,Middle East,1,5.0,up,14,high,0,0,1
+2024-10-26,Israel strikes Iran military sites,military,Middle East,1,3.0,up,7,high,0,0,1
+2025-04-01,Iran-Israel escalation new round,military,Middle East,1,6.0,up,21,high,0,0,1
+2025-04-12,US strikes Houthi targets (major op),military,Middle East,0,4.0,up,14,high,1,0,1
+2025-04-20,Iran threatens Strait of Hormuz closure,military,Middle East,1,8.0,up,30,extreme,1,0,1
