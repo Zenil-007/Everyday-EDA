@@ -69,6 +69,7 @@ Each dataset analysis includes:
 | Day 5  | End To End ML Project Loan Prediction Lending dataset more than 50 Lakh records | Done |
 | Day 6  | Breast Cancer Classification ML Project | Done |
 | Day 7  | Geopolitical Analysis of Iran War      | Pending |
+| Day 8  | Real Life Fraud Detection IEEE Kaggle Competition | Done |
 
 > 🔥 This table will grow daily — just like my skills.
 
