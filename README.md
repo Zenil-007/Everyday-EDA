@@ -66,7 +66,7 @@ Each dataset analysis includes:
 | Day 2 | House Prices Messy Dataset | Done |
 | Day 3 | Global Poverty Index Messy Dataset | Done |
 | Day 4  | Indian Road Accidents Clean Dataset  | Done |
-| Day 5  | End To End ML Project Loan Prediction Lending dataset more than 50 Lakh records | Done |
+| Day 5  | End To End ML Project Loan Prediction Lending dataset more than 50 Lakh records WON Hackathon 2nd In IIT Gandhinagar | Done |
 | Day 6  | Breast Cancer Classification ML Project | Done |
 | Day 7  | Geopolitical Analysis of Iran War      | Pending |
 | Day 8  | Real Life Fraud Detection IEEE Kaggle Competition | Done |
